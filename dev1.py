@@ -1,7 +1,7 @@
 '''
 Created on Oct 7, 2017
 
-@author: Abbas Ghaddar - Matricule: 20006069
+@author: Abbas Ghaddar
 '''
 
 from sklearn.datasets import load_iris
