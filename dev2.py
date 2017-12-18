@@ -1,7 +1,7 @@
 '''
 Created on Nov 15, 2017
 
-@author: ghaddara
+@author: Abbas Ghaddar
 '''
 import numpy as np
 import matplotlib.pyplot as plt
